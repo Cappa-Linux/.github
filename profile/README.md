@@ -1,6 +1,6 @@
 ### About reason that how i created this Cappa Linux
 - I want my system use linux-zen kernel at default by low-latency because it has and is stable not vanilla...
-- I love minimal small bloated but useful for my potato laptop xd
+- I love minimal and small bloated but useful for my potato laptop xd
 - I built the distro include tool for TN color screen like my screen my laptop i'm using
 - I also make a tool call enchance-audio-tool use easyeffects apps that will helping improve experience of music
 - I use method offline for calamares installer to install because sometime the mirror arch linux when on live iso not really stable and can get error any times:(
